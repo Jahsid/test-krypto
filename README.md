@@ -1,1 +1,1 @@
-<h1> npm rum dev </h1>
+<h5> npm run dev </h5>
